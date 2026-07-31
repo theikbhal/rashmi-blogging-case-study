@@ -41,6 +41,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://rashmi-blogging-case-study.vercel.app/blog-friends-saw-profit-joined</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rashmi-blogging-case-study.vercel.app/gopalganj-district</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
