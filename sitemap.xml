@@ -66,6 +66,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://rashmi-blogging-case-study.vercel.app/blog-pay-per-article</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rashmi-blogging-case-study.vercel.app/gopalganj-district</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
