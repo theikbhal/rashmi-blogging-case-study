@@ -31,7 +31,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rashmi-blogging-case-study.vercel.app/blog-how-to-hire-writers</loc>
+    <loc>https://rashmi-blogging-case-study.vercel.app/blog-multiple-phones</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rashmi-blogging-case-study.vercel.app/blog-topic-discovery</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rashmi-blogging-case-study.vercel.app/blog-bike-car-articles</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rashmi-blogging-case-study.vercel.app/blog-gorakhpur-university</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
